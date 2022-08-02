@@ -7,3 +7,6 @@ def DecToBin(n):
         return n%2 + 10 * DecToBin(n//2)
 
 print(DecToBin(10))            
+
+
+
